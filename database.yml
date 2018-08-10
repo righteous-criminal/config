@@ -25,7 +25,7 @@ spring:
           log-slow-sql: true
           slow-sql-millis: 2000
       web-stat-filter:
-        enable: true
+        enabled: true
       stat-view-servlet:
         enabled: true
         #druid控制台的用户名和密码
